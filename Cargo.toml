@@ -4,6 +4,7 @@ authors = ["Garrett Howard <garrett@mersh.com>"]
 version = "0.1.0"
 description = "Simple audio loopback"
 edition = "2021"
+license = "MIT"
 
 [dependencies]
 anyhow = "1.0.80"
