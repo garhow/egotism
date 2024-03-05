@@ -1,0 +1,9 @@
+[package]
+name = "egotism"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.80"
+cpal = "0.15.2"
+ringbuf = "0.3.3"
