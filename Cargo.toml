@@ -1,6 +1,8 @@
 [package]
 name = "egotism"
+authors = ["Garrett Howard <garrett@mersh.com>"]
 version = "0.1.0"
+description = "Simple audio loopback"
 edition = "2021"
 
 [dependencies]
